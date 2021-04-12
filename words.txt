@@ -1,0 +1,6 @@
+word
+Word
+WORD
+other
+one
+another
